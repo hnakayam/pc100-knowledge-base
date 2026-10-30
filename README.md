@@ -4,6 +4,8 @@ NEC PC-100 Series「MS-DOS プログラマーズリファレンスマニュア�
 Original Copyright © 1981, 1983 Microsoft Corporation / Translation © 1983 ASCII Techwrite/NEC Corporation)
 を元に、BIOS コール(割り込み・ファンクション)の資料を作るためのリポジトリ。
 
+<img src="pc100_msdos_reference.jpg" alt="PC-100 MS-DOS プログラマーズリファレンスマニュアル 表紙" width="320">
+
 ## ファイル一覧
 
 | ファイル | 内容 |
@@ -18,9 +20,10 @@ Original Copyright © 1981, 1983 Microsoft Corporation / Translation © 1983 ASC
 - about-this-book.md: IMG_6168
 - p230-device-driver-example.md: IMG_6169
 - IMG_6162.JPEG: 表紙の写真(『PC-100入門』(アスキー出版局)と本書の並置)、テキスト化対象外
+- cover_msdos_programmers_reference.jpg(リポジトリ直下): IMG_6162.JPEG から本書の表紙だけを切り出して補正した画像
 -->
 
 ## 備考
 
-- OCR は画像を直接読み取って書き起こしたもの。原本の明らかな誤植は修正済み。
-- 写真は裏面の文字が透けているが、表側の印字のみを採用した。
+- このリポジトリの情報は、上記書籍の情報を OCR で読み取って書き起こしたものです。
+- 原本の明らかな誤植は修正済み。
