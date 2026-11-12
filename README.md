@@ -12,7 +12,7 @@ Original Copyright © 1981, 1983 Microsoft Corporation / Translation © 1983 ASC
 |---|---|
 | [toc.md](toc.md) | 目次の全文(ファンクション番号・名称・頁の一覧表) |
 | [about-this-book.md](about-this-book.md) | 「本書の構成について」(p.1) |
-| [p230-device-driver-example.md](p230-device-driver-example.md) | 2.8 デバイスドライバ例(p.230) |
+| [p230-device-driver-example.md](p230-device-driver-example.md) | 2.8 デバイスドライバ例の冒頭 1ページのみ (p.230) |
 
 <!--
 元画像(images/ は共有対象外):
